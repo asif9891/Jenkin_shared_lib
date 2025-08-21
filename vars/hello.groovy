@@ -1,3 +1,3 @@
-def call(){
-  echo "hello"
+def call(string name){
+  echo $(name)
 }
